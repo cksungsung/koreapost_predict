@@ -5,7 +5,7 @@
 Using Koreapost mail qty datasets, I am going to estimate the peak amount during holiday seasons.  
 우정사업본부에서 제공된 택배 배송 데이터를 분석하여, 공휴일의 피크 물량을 예측하자.
 
-Predicting the volume of delivery is a critical issue for the operations of delivery services.
+Predicting the volume of delivery is a critical issue for the operations of delivery services.  
 택배 수량 예측은 택배 서비스 운영에 매우 중요한 문제이다.
 
 * The volume of delivery depends on various external factors. 
