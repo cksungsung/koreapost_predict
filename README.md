@@ -10,6 +10,10 @@ Using Koreapost mail qty datasets, I am going to estimate the peak amount during
 ### Scheme 스키마
 ![scheme](https://user-images.githubusercontent.com/44127360/51583961-6f62d380-1f16-11e9-9139-dbd0cce334d9.png)
 
+| postal.csv | 발신일자 |  발송우체국      | 도착구 | 수량 |
+|------------|----------|------------------|--------|------|
+| FORMAT     | Date     | Varchar(30)      | INT    | INT  |
+| i.g.       | 20181130 | 국체우편물류센터 | 22     | 513  |
 
 ---
 ### EDA
