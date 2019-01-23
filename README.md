@@ -1,5 +1,5 @@
 # Koreapost Mail Qty Prediction  
-# 우정사업본부 물동량 예측
+우정사업본부 물동량 예측
 
 
 ![dsc09583](https://user-images.githubusercontent.com/44127360/51583207-cc5c8a80-1f12-11e9-95f3-7009e88e34da.JPG)
