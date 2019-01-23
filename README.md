@@ -10,7 +10,8 @@ Using Koreapost mail qty datasets, I am going to estimate the peak amount during
 ---
 
 #### Scheme 스키마
-<img width="734" alt="scheme" src="https://user-images.githubusercontent.com/44127360/51583798-91a82180-1f15-11e9-8196-50b856e9bdbf.png">
+![scheme](https://user-images.githubusercontent.com/44127360/51583961-6f62d380-1f16-11e9-9139-dbd0cce334d9.png)
+
 
 ---
 #### EDA
