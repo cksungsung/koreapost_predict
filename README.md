@@ -15,5 +15,6 @@ Using Koreapost mail qty datasets, I am going to estimate the peak amount during
 | FORMAT     | Date     | Varchar(30)      | INT    | INT  |
 | i.g.       | 20181130 | 국체우편물류센터 | 22     | 513  |
 
+
 ---
 ### EDA
